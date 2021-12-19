@@ -1,12 +1,19 @@
 ## Hi there 👋
 
+🙋‍♀️ **T**iny **W**eather **F**orecast **G**ermany is a free open source app for **android** devices powered by open data provided by the **D**eutscher **W**etter**d**ienst (DWD) Germany's national weather agency (similar to NOAA in the US).
+
+One of the key features of *Kleine Wettervorschau Deutschland* (**T**iny**W**eather**F**orecast**G**ermany in German) is the integration with Gadgetbridge as a weather data provider for smart gadgets.
+
+The app is available on the [**F-Droid**](https://f-droid.org/packages/de.kaffeemitkoffein.tinyweatherforecastgermany/) app store.
+
+🌈 Contribution guidelines
+
+Please be aware that the development of **T**iny**W**eather**F**orecast**G**ermany itself happens at [**codeberg.org**](https://codeberg.org/Starfish/TinyWeatherForecastGermany/). Please come over an join us! It's free!
+
+Nevertheless we'd like to invite you to contribute to our repositories here on [GitHub]() or at GitLab by opening pull requests or issues.
+
 <!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 -->
