@@ -6,7 +6,7 @@ One of the key features of *Kleine Wettervorschau Deutschland* ([**T**iny**W**ea
 
 The app is available on the [**F-Droid**](https://f-droid.org/packages/de.kaffeemitkoffein.tinyweatherforecastgermany/) app store.
 
-TinyWeatherForecastGermany is not affiliated or officially supported or approved with/by the DWD.
+TinyWeatherForecastGermany is not affiliated or officially supported or approved with/by the DWD, the WMO, related organizations or individuals.
 
 🌈 Contribution guidelines
 
@@ -26,4 +26,4 @@ Nevertheless we'd like to invite you to contribute to our repositories here on [
 
 :phone: Contact
 
-The organizations of Tiny Weather Forecast Germany at GitHub and GitLab are managed by Jean-Luc Tibaux ([@eUgEntOptIc44](https://github.com/eUgEntOptIc44)). Please do not hesitate to get in touch to sort out issues regarding CyberSec, Privacy or Copryright related issue with any of out repos.
+The organizations of Tiny Weather Forecast Germany at GitHub and GitLab are managed by Jean-Luc Tibaux ([@eUgEntOptIc44](https://github.com/eUgEntOptIc44)). Please do not hesitate to get in touch to sort out issues regarding CyberSec, Privacy or Copyright with any of our repos.
