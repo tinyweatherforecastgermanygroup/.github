@@ -16,7 +16,7 @@ Nevertheless we'd like to invite you to contribute to our repositories here on [
 
 👩‍💻 Useful resources
 
-* a list of our [**mirror**](https://tinyweatherforecastgermanygroup.frama.io/#mirrors) repositories -> (GitLab, GitHub, Gitea, Framagit ...)
+* a list of our [**mirror**](https://tinyweatherforecastgermanygroup.frama.io/#mirrors) repositories -> ([GitLab](https://gitlab.com/tinyweatherforecastgermanygroup/TinyWeatherForecastGermany), [GitHub](https://github.com/tinyweatherforecastgermanygroup/TinyWeatherForecastGermany), [Gitea](https://gitea.com/tinyweatherforecastgermanygroup/TinyWeatherForecastGermanyMirror), [Framagit](https://framagit.org/tinyweatherforecastgermanygroup/tinyweatherforecastgermanymirror) ...)
 * a searchable table of all warning [**areas**](https://tinyweatherforecastgermanygroup.gitlab.io/index/areas.html)/locations (German: *Warngebiete*) -> *areas.txt*
 * a searchable table of all (weather) [**stations**](https://tinyweatherforecastgermanygroup.gitlab.io/index/stations.html) (*stations4.txt*)
 * an OpenStreetMap based [**map**](https://tinyweatherforecastgermanygroup.gitlab.io/index/map.html) visualizing all data sources
@@ -26,4 +26,4 @@ Nevertheless we'd like to invite you to contribute to our repositories here on [
 
 :phone: Contact
 
-The organizations of Tiny Weather Forecast Germany at GitHub and GitLab are managed by Jean-Luc Tibaux ([@eUgEntOptIc44](https://github.com/eUgEntOptIc44)). Please do not hesitate to get in touch to sort out issues regarding CyberSec, Privacy or Copyright with any of our repos.
+The organizations of Tiny Weather Forecast Germany at GitHub and GitLab are managed by Jean-Luc Tibaux ([@eUgEntOptIc44](https://github.com/eUgEntOptIc44)). Please do not hesitate to get in touch to sort out issues regarding CyberSec, Privacy or Copyrights with any of our repos.
