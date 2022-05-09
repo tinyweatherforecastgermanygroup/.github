@@ -16,9 +16,9 @@ Nevertheless we'd like to invite you to contribute to our repositories here on [
 
 👩‍💻 Useful resources
 
-* a list of our [**mirror**](https://tinyweatherforecastgermanygroup.frama.io/#mirrors) repositories -> (GitLab, GitHub, Gitea, ...)
+* a list of our [**mirror**](https://tinyweatherforecastgermanygroup.frama.io/#mirrors) repositories -> (GitLab, GitHub, Gitea, Framagit ...)
 * a searchable table of all warning [**areas**](https://tinyweatherforecastgermanygroup.gitlab.io/index/areas.html)/locations (German: *Warngebiete*) -> *areas.txt*
-* a searchable table of all (weather) [**stations**](https://tinyweatherforecastgermanygroup.gitlab.io/index/stations.html) (*stations3.txt*)
+* a searchable table of all (weather) [**stations**](https://tinyweatherforecastgermanygroup.gitlab.io/index/stations.html) (*stations4.txt*)
 * an OpenStreetMap based [**map**](https://tinyweatherforecastgermanygroup.gitlab.io/index/map.html) visualizing all data sources
 * [**javadoc**](https://tinyweatherforecastgermanygroup.gitlab.io/twfg-javadoc/) code documentation -> also inlcudes UML diagrams
 * [**Translations**](https://weblate.bubu1.eu/engage/tiny-weather-forecast-germany/) are managed on the weblate server provided by @bubu
