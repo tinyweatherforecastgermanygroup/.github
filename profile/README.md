@@ -21,7 +21,7 @@ Nevertheless we'd like to invite you to contribute to our repositories here on [
 * a searchable table of all (weather) [**stations**](https://tinyweatherforecastgermanygroup.gitlab.io/index/stations.html) (*stations4.txt*)
 * an OpenStreetMap based [**map**](https://tinyweatherforecastgermanygroup.gitlab.io/index/map.html) visualizing all data sources
 * [**javadoc**](https://tinyweatherforecastgermanygroup.gitlab.io/twfg-javadoc/) code documentation -> also inlcudes UML diagrams
-* [**Translations**](https://weblate.bubu1.eu/engage/tiny-weather-forecast-germany/) are managed on the weblate server provided by @bubu
+* [**Translations**](https://translate.codeberg.org/engage/tiny-weather-forecast-germany/) are managed on the weblate server provided by Codeberg e.V.
 * automated [scans](https://twfgcicdbot.github.io/TinyWeatherForecastGermanyScan/) of the apk files for trackers using [`exodus-core`](https://github.com/Exodus-Privacy/exodus-core/) a Python module by [ExodusPrivacy](https://exodus-privacy.eu.org/en/)
 
 :phone: Contact
