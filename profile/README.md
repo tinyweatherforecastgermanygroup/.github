@@ -10,7 +10,7 @@ TinyWeatherForecastGermany is not affiliated or officially supported or approved
 
 🌈 Contribution guidelines
 
-Please be aware that the development of [**T**iny**W**eather**F**orecast**G**ermany](https://tinyweatherforecastgermanygroup.gitlab.io/index/index.html) itself happens at [**codeberg.org**](https://codeberg.org/Starfish/TinyWeatherForecastGermany/). Please come over an join us! It's free!
+Please be aware that the development of [**T**iny**W**eather**F**orecast**G**ermany](https://tinyweatherforecastgermanygroup.gitlab.io/index/index.html) itself happens at [**codeberg.org**](https://codeberg.org/Starfish/TinyWeatherForecastGermany/). Please come over and join us! It's free!
 
 Nevertheless we'd like to invite you to contribute to our repositories here on [GitHub](https://github.com/orgs/tinyweatherforecastgermanygroup/repositories) or at [GitLab](https://gitlab.com/tinyweatherforecastgermanygroup) by opening pull requests or issues.
 
